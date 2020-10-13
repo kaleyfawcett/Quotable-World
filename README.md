@@ -1,0 +1,1 @@
+Quotable World is a web application where the user can save their favorite quotes on stylized cards for themselves or to share with others. The front end piece of the app was built and stylized with ReactJS while the back end is a rest API built with Django Rest Framework. 
